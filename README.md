@@ -26,55 +26,55 @@ I'm eager to turn complex problems into elegant, real-world solutions — one co
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-955239?style=flat-square&logo=python&logoColor=dbbe9e)
-![C#](https://img.shields.io/badge/C%23-dbbe9e?style=flat-square&logo=csharp&logoColor=4a2410)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=4a2410)
-![PHP](https://img.shields.io/badge/PHP-955239?style=flat-square&logo=php&logoColor=dbbe9e)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-dbbe9e?style=flat-square&logo=react&logoColor=4a2410)
-![Next.js](https://img.shields.io/badge/Next.js-4a2410?style=flat-square&logo=nextdotjs&logoColor=dbbe9e)
-![Laravel](https://img.shields.io/badge/Laravel-955239?style=flat-square&logo=laravel&logoColor=dbbe9e)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-955239?style=flat-square&logo=tailwindcss&logoColor=dbbe9e)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-dbbe9e?style=flat-square&logo=bootstrap&logoColor=4a2410)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Backend**
 
-![Spring](https://img.shields.io/badge/Spring-dbbe9e?style=flat-square&logo=spring&logoColor=4a2410)
-![Express.js](https://img.shields.io/badge/Express.js-4a2410?style=flat-square&logo=express&logoColor=dbbe9e)
-![REST APIs](https://img.shields.io/badge/REST_APIs-955239?style=flat-square&logo=fastapi&logoColor=dbbe9e)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-955239?style=flat-square&logo=mongodb&logoColor=dbbe9e)
-![MySQL](https://img.shields.io/badge/MySQL-dbbe9e?style=flat-square&logo=mysql&logoColor=4a2410)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4a2410?style=flat-square&logo=postgresql&logoColor=dbbe9e)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-4a2410?style=flat-square&logo=git&logoColor=dbbe9e)
-![GitHub](https://img.shields.io/badge/GitHub-955239?style=flat-square&logo=github&logoColor=dbbe9e)
-![Docker](https://img.shields.io/badge/Docker-dbbe9e?style=flat-square&logo=docker&logoColor=4a2410)
-![Figma](https://img.shields.io/badge/Figma-955239?style=flat-square&logo=figma&logoColor=dbbe9e)
-![StarUML](https://img.shields.io/badge/StarUML-4a2410?style=flat-square&logo=uml&logoColor=dbbe9e)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![StarUML](https://img.shields.io/badge/StarUML-00BFFF?style=flat-square&logoColor=white)
 
 **ML / Deep Learning**
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-955239?style=flat-square&logo=scikitlearn&logoColor=dbbe9e)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-dbbe9e?style=flat-square&logo=tensorflow&logoColor=4a2410)
-![PyTorch](https://img.shields.io/badge/PyTorch-4a2410?style=flat-square&logo=pytorch&logoColor=dbbe9e)
-![Transformers](https://img.shields.io/badge/Transformers-955239?style=flat-square&logo=huggingface&logoColor=dbbe9e)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **Big Data**
 
-![Hadoop](https://img.shields.io/badge/Hadoop-dbbe9e?style=flat-square&logo=apachehadoop&logoColor=4a2410)
-![Spark](https://img.shields.io/badge/Spark-4a2410?style=flat-square&logo=apachespark&logoColor=dbbe9e)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 **Business Intelligence**
 
-![Talend](https://img.shields.io/badge/Talend-955239?style=flat-square&logo=talend&logoColor=dbbe9e)
-![Power BI](https://img.shields.io/badge/Power_BI-dbbe9e?style=flat-square&logo=powerbi&logoColor=4a2410)
+![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logo=talend&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
@@ -82,8 +82,9 @@ I'm eager to turn complex problems into elegant, real-world solutions — one co
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AablaEssadaq&show_icons=true&theme=transparent&title_color=955239&text_color=4a2410&icon_color=955239&border_color=dbbe9e&bg_color=fdf6ee" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AablaEssadaq&layout=compact&theme=transparent&title_color=955239&text_color=4a2410&border_color=dbbe9e&bg_color=fdf6ee" />
+[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AablaEssadaq&show_icons=true&title_color=955239&text_color=4a2410&icon_color=955239&border_color=dbbe9e&bg_color=fdf6ee)](https://github.com/AablaEssadaq)
+&nbsp;
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AablaEssadaq&layout=compact&title_color=955239&text_color=4a2410&border_color=dbbe9e&bg_color=fdf6ee)](https://github.com/AablaEssadaq)
 
 </div>
 
@@ -93,8 +94,8 @@ I'm eager to turn complex problems into elegant, real-world solutions — one co
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-955239?style=for-the-badge&logo=linkedin&logoColor=dbbe9e)](https://linkedin.com/in/aabla-essadaq-bb656a1b8)
-[![Email](https://img.shields.io/badge/Email-dbbe9e?style=for-the-badge&logo=gmail&logoColor=4a2410)](mailto:essadaqaabla3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aabla-essadaq-bb656a1b8)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:essadaqaabla3@gmail.com)
 
 </div>
 
@@ -102,7 +103,7 @@ I'm eager to turn complex problems into elegant, real-world solutions — one co
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=dbbe9e&height=60&section=footer&fontColor=955239&fontSize=12" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=dbbe9e&height=60&section=footer" width="100%" />
 
 <sub>✦ Building one commit at a time ✦</sub>
 
