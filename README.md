@@ -27,6 +27,7 @@ I'm eager to turn complex problems into elegant, real-world solutions — one co
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -43,6 +44,7 @@ I'm eager to turn complex problems into elegant, real-world solutions — one co
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **Databases**
@@ -94,8 +96,9 @@ I'm eager to turn complex problems into elegant, real-world solutions — one co
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aabla-essadaq-bb656a1b8)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:essadaqaabla3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aabla-essadaq-bb656a1b8)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:essadaqaabla3@gmail.com)
 
 </div>
 
@@ -103,8 +106,6 @@ I'm eager to turn complex problems into elegant, real-world solutions — one co
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=dbbe9e&height=60&section=footer" width="100%" />
-
-<sub>✦ Building one commit at a time ✦</sub>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=dbbe9e&height=60&section=footer&text=%E2%9C%A6%20Building%20one%20commit%20at%20a%20time%20%E2%9C%A6&fontSize=14&fontColor=7a3f20&fontAlignY=65&fontStyle=italic" width="100%" />
 
 </div>
