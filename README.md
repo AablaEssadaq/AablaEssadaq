@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-Hi there! I'm a 4th year software engineering student at **Ecole Marocaine des Sciences de l'Ingénieur (EMSI)**. Based in **Marrakech, Morocco**, passionate about building impactful solutions at the intersection of **Artificial Intelligence**, **Data Science**, and **Full-stack Web Development**.
+Hi there! I'm a 5th year software engineering student at **Ecole Marocaine des Sciences de l'Ingénieur (EMSI)**. Based in **Marrakech, Morocco**, passionate about building impactful solutions at the intersection of **Artificial Intelligence**, **Data Science**, and **Full-stack Web Development**.
 
 I'm eager to turn complex problems into elegant, real-world solutions — one commit at a time.
 
@@ -16,8 +16,7 @@ I'm eager to turn complex problems into elegant, real-world solutions — one co
 
 ## 🔭 What I'm Up To
 
-- 🧠 Working on **AI & Data Science** academic projects _(coming soon to this profile!)_
-- 🌐 Building my **portfolio website** to showcase all my work
+- 🧠 Working on **AI & Data Science** academic projects 
 - 📚 Deepening my knowledge in **machine learning**, **deep learning**, **data science**, **big data** and much more
 
 ---
