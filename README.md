@@ -37,10 +37,9 @@ I love turning complex problems into clean, real-world applications — one comm
 ### 🤖 Generative AI & LLMs
 ![LLMs](https://img.shields.io/badge/LLMs%20(Text%20%26%20Vision)-7C3AED?style=flat-square&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG%20Architecture-008080?style=flat-square&logo=semanticweb&logoColor=white)
-![AI Agents](https://img.shields.io/badge/Intelligent%20Agents-EA580C?style=flat-square&logo=probot&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4B5563?style=flat-square&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4B5563?style=flat-square&logoColor=white)
 
 ### 🧠 Machine Learning & Computer Vision
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
